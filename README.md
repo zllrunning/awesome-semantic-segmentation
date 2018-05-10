@@ -19,6 +19,8 @@
 	+ https://github.com/orobix/retina-unet [Keras]
 	+ https://github.com/masahi/nnvm-vision-demo/blob/master/unet_segmentation.py [onnx+nnvm]
 	+ https://github.com/qureai/ultrasound-nerve-segmentation-using-torchnet [Torch]
+	
+- TernausNet [https://arxiv.org/abs/1801.05746]
 	+ https://github.com/ternaus/TernausNet [PyTorch]
 - SegNet [https://arxiv.org/pdf/1511.00561.pdf] [2016]
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
