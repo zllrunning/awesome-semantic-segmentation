@@ -22,7 +22,7 @@
 	
 - (已读)TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation [https://arxiv.org/abs/1801.05746]
 	+ https://github.com/ternaus/TernausNet [PyTorch]
-- SegNet [https://arxiv.org/pdf/1511.00561.pdf] [2016]
+- (已读)SegNet [https://arxiv.org/pdf/1511.00561.pdf] [2016]
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
 	+ https://github.com/preddy5/segnet [Keras]
